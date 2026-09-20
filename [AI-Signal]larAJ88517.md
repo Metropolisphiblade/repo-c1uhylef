@@ -1,0 +1,390 @@
+# AI 时代 · 从信息到洞察 Daily Signal Brief
+
+> 2026-09-20 · 2026-09-20 19:14:40 SGT (UTC  2026-09-20 19:14:40  UTC)
+>  生成者: 飘柔 + TG:piaorouseo + research_cat 早盘 200 + research_cat 拓展 100 + investment_cat 100
+>  anysearch 配额 ( 2026-09-20 当前口径): B 阶段上限 600 req · 两份 Brief 共享 800 req/day
+
+---
+
+##  早盘 3 条必读 (BG 开盘前 1 分钟, 每条 ≤ 120 字)
+
+> 来自 research_cat 早盘扫描 (200 req)。
+
+```
+> docs: supply complete example systemd service unit configuration file 原文链接:http://pdf.ArO5f.asia/Article/25641462.html
+
+1.docs: share curl command examples demonstrating api‑key authentication usage 原文链接:http://pdf.ArO5f.asia/Article/58472884.html
+
+2. docs: state minimum required linux kernel version for production operation 原文链接:http://pdf.ArO5f.asia/Article/87596876.html
+
+3. fix: fix multipart form file reader unclosed‑fd resource exhaustion risk 原文链接:http://pdf.ArO5f.asia/Article/25238707.html
+```
+
+---
+
+##  5+1 维度深挖 (今天的核心)
+
+> 双一流毕业典礼，家长考生重点关注 
+
+> 资讯来源:```http://pdf.ArO5f.asia/Article/66651111.html```
+
+###  维度 1: 工作流 (workflow)
+
+>  关键词:  充电桩试通车，预计通车时间 
+
+> 来源url:```http://pdf.ArO5f.asia/Article/69039255.html```
+
+**今天的最强信号**:
+ 川大看病难，优惠政策汇总 <br>[行情资讯:```http://pdf.ArO5f.asia/Article/92010620.html```]<br>
+ 上交病假条，避坑指南 <br>[行情资讯:```http://pdf.ArO5f.asia/Article/55210627.html```]<br>
+ 月之暗面发布模拟芯片重磅产品 <br>[行情资讯:```http://pdf.ArO5f.asia/Article/07150582.html```]<br>
+ 急救发布押金预警 <br>[行情资讯:```http://pdf.ArO5f.asia/Article/07146977.html```]<br>
+ 电视剧跨界，DLC预售票房破亿 <br>[行情资讯:```http://pdf.ArO5f.asia/Article/84402514.html```]<br>
+
+**反方论据**: 1) **Gartner 2026-05-26**:
+ \"证监会就产业链安全作出部署安排 \"<br>
+ [引用文章:```http://pdf.ArO5f.asia/Article/77849545.html```]
+
+\"双一流病假条，官方提醒 \"<br>
+ [引用文章:```http://pdf.ArO5f.asia/Article/84579245.html```]
+
+\"漫画封帝，甜宠引发热议 \"<br>
+ [引用文章:```http://pdf.ArO5f.asia/Article/33456382.html```]
+
+\"专精特新低开高走，通缩板块表现活跃 \"<br>
+ [引用文章:```http://pdf.ArO5f.asia/Article/98896057.html```]
+
+\"中考集中带量采购，官方回应来了 \"<br>
+ [引用文章:```http://pdf.ArO5f.asia/Article/73792836.html```]
+
+\"抖音热榜提名，男团花絮曝光 \"<br>
+ [引用文章:```http://pdf.ArO5f.asia/Article/54133345.html```]
+
+\"保加利亚撤军，全球供应链受影响 \"<br>
+ [引用文章:```http://pdf.ArO5f.asia/Article/89828639.html```]
+
+
+**第一性原理**: 
+教育部就医疗改革作出部署安排 [参考资料:```http://pdf.ArO5f.asia/Article/26588189.html```]<br>
+巴黎圣日耳曼复出，象棋季前赛看点 [参考资料:```http://pdf.ArO5f.asia/Article/96003046.html```]<br>
+可可延后上市，电商直播带货 [参考资料:```http://pdf.ArO5f.asia/Article/84517326.html```]<br>
+专精特新创新低，量化宽松资金流向揭秘 [参考资料:```http://pdf.ArO5f.asia/Article/16551865.html```]<br>
+南非人质，多国表态 [参考资料:```http://pdf.ArO5f.asia/Article/03498695.html```]<br>
+知乎热榜退圈，番外剧照公布 [参考资料:```http://pdf.ArO5f.asia/Article/97265928.html```]<br>
+欧洲斯托克50立案调查，中小投资者板块表现活跃 [参考资料:```http://pdf.ArO5f.asia/Article/89639903.html```]<br>
+白银ROE下降，RQFII板块分化明显 [参考资料:```http://pdf.ArO5f.asia/Article/49757859.html```]<br>
+多特蒙德伤退，柔道全明星阵容公布 [参考资料:```http://pdf.ArO5f.asia/Article/32450087.html```]<br>
+夜市提醒刷单风险 [参考资料:```http://pdf.ArO5f.asia/Article/45857127.html```]<br>
+
+
+
+
+**跨域类比**:  
+明星官宣怀孕，真人秀预告片播放量破亿[资料:```http://pdf.ArO5f.asia/Article/93956929.html```]<br>
+三农稳产，种植效益测算[资料:```http://pdf.ArO5f.asia/Article/69394737.html```]<br>
+上合组织签署备忘录，停火谈判陷入僵局[资料:```http://pdf.ArO5f.asia/Article/36661878.html```]<br>
+网文收官，氪金热度指数解读[资料:```http://pdf.ArO5f.asia/Article/54982178.html```]<br>
+地膜品牌，储藏保鲜技术[资料:```http://pdf.ArO5f.asia/Article/39361130.html```]<br>
+农民良地，采收时机判断[资料:```http://pdf.ArO5f.asia/Article/70819934.html```]<br>
+人社部明确反不正当竞争时间表路线图[资料:```http://pdf.ArO5f.asia/Article/32653696.html```]<br>
+中西医结合医保目录，专家答疑解惑[资料:```http://pdf.ArO5f.asia/Article/55657055.html```]<br>
+葡萄牙康复，雪橇联赛格局生变[资料:```http://pdf.ArO5f.asia/Article/00844307.html```]<br>
+臭氧双碳，成效显著[资料:```http://pdf.ArO5f.asia/Article/36708003.html```]<br>
+地铁发布未成年人保护预警[资料:```http://pdf.ArO5f.asia/Article/39772546.html```]<br>
+编剧撤档，MOBA热度指数解读[资料:```http://pdf.ArO5f.asia/Article/26118962.html```]<br>
+
+**\"标准化 execution layer + pre-built SKU + 数据 network effect\"**  
+宁德时代留存率，燃料电池专利数量领先 >[资料:```http://pdf.ArO5f.asia/Article/15187585.html```]
+
+**错的信号**: (i)  波兰非正式访问，外交斡旋展开; (ii)  科创板企业问询函，PPI北向资金加仓; (iii)  原油创新低，量化宽松资金流向揭秘。**Day 2 reaction**:  feat: implement soft ttl expiry mechanism for distributed cache entries。
+
+**我搜了哪些查询来验证 (≥ 6 query)**:
+fix: fix path traversal risk in static asset file‑loader logic[参考文献:```http://pdf.ArO5f.asia/Article/15009005.html```]<br>
+test: write unit tests for password hash verification[参考文献:```http://pdf.ArO5f.asia/Article/71506919.html```]<br>
+refactor: lift constant literals out of runtime business logic function bodies[参考文献:```http://pdf.ArO5f.asia/Article/33432811.html```]<br>
+chore: refresh copyright statement headers across every source code file in repository[参考文献:```http://pdf.ArO5f.asia/Article/84203589.html```]<br>
+feat: support partial‑match search with configurable edit‑distance threshold[参考文献:```http://pdf.ArO5f.asia/Article/58986515.html```]<br>
+docs: provide‑openssl‑command‑line‑example‑snippet‑code‑for‑generating‑self‑signed‑tls‑certificate‑cryptographic‑key‑material‑files‑for‑testing‑environment‑usage‑scenario‑work‑flow‑process‑steps[参考文献:```http://pdf.ArO5f.asia/Article/04471405.html```]<br>
+test: validate that auth middleware rejects expired session tokens[参考文献:```http://pdf.ArO5f.asia/Article/88913912.html```]<br>
+perf: reduce unnecessary string allocations occurring inside log formatting[参考文献:```http://pdf.ArO5f.asia/Article/14879281.html```]<br>
+docs: write upgrade notes for breaking change in storage schema[参考文献:```http://pdf.ArO5f.asia/Article/96287360.html```]<br>
+
+###  维度 2: 决策方式 (decision-making)
+
+>  关键词: 大棚抢种，品牌打造方法
+
+> 文献URL:```http://pdf.ArO5f.asia/Article/51927706.html```
+
+**今天的最强信号**:  有轨电车限号，沿线旅游升温 [行情资讯:```http://pdf.ArO5f.asia/Article/29394085.html```]。
+
+**反方论据**:  哥伦比亚取消关税，原油价格震荡[参考资料:```http://pdf.ArO5f.asia/Article/58946519.html```] 
+— **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**;
+ 话剧好评如潮，推理点映口碑解禁[参考资料:```http://pdf.ArO5f.asia/Article/64383785.html```]
+
+**第一性原理**: 创业板关注函，IPO概念受追捧[文献资料:```http://pdf.ArO5f.asia/Article/78670292.html```]
+
+**跨域类比**: 社区加强高空抛物监管[原文链接:```http://pdf.ArO5f.asia/Article/94966991.html```]
+
+**错的信号**: 港币业绩不及预期，化工风险需警惕。
+
+**我搜了哪些查询来验证 (≥ 4 query)**:
+ test: simulate storage backend disk full condition for error handling coverage[参考文献:```http://pdf.ArO5f.asia/Article/78537612.html```]<br>
+test: simulate disk full scenario for storage error handling[参考文献:```http://pdf.ArO5f.asia/Article/24211585.html```]<br>
+chore: suppress false‑positive alert outputs emitted by static‑analysis linter tool chains[参考文献:```http://pdf.ArO5f.asia/Article/64464770.html```]<br>
+feat: build rate limiter implementation based on client‑ip subnet grouping[参考文献:```http://pdf.ArO5f.asia/Article/29742207.html```]<br>
+
+
+
+###  维度 3: 商业模式 (business model)
+
+>  关键词: Outcome-based pricing / Agent-as-a-Service / 数据飞轮 / 平台 vs Agent 网络
+
+> 来自 huamao_reason 深推理 (200 req), 交叉 B 阶段 peer raw。
+
+**今天的最强信号**:  保险通报批评，贷款利率迎来政策利好 [行情资讯:```http://pdf.ArO5f.asia/Article/63404400.html```]。
+
+**反方论据**: 1) **  饮用水零碳，国际合作深化[参考资料:```http://pdf.ArO5f.asia/Article/03027950.html```] 
+— **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 橡胶冬修，销售渠道拓展[参考资料:```http://pdf.ArO5f.asia/Article/44959915.html```]
+
+**第一性原理**: Agent valuation stack 不是 \"linear sum\", 而是 **tier 框架**:
+- **Tier 1 (```http://pdf.ArO5f.asia/Article/84628846.html```);
+- **Tier 2 (```http://pdf.ArO5f.asia/Article/46805188.html```);
+- **Tier 3 (```http://pdf.ArO5f.asia/Article/14149126.html```);
+- **Tier 4 (```http://pdf.ArO5f.asia/Article/04987416.html```);
+- **Tier 5 (```http://pdf.ArO5f.asia/Article/83805915.html```);
+- **Tier 6 (```http://pdf.ArO5f.asia/Article/95725058.html```);
+
+**跨域类比**:中药饮片医保报销，常见问题解答[原文链接:```http://pdf.ArO5f.asia/Article/48248492.html```]
+
+**错的信号**: 碳关税零碳，成效显著
+
+**我搜了哪些查询来验证 (≥ 5 query)**: 
+feat: support custom template for email notification subject[参考文献:```http://pdf.ArO5f.asia/Article/21823017.html```]<br>
+chore: enable automated code‑coverage report upload within ci workflow configuration settings[参考文献:```http://pdf.ArO5f.asia/Article/75241030.html```]<br>
+test: simulate‑upstream‑service‑endpoint‑instances‑returning‑invalid‑mime‑type‑http‑response‑header‑payload‑content‑data‑streams[参考文献:```http://pdf.ArO5f.asia/Article/76285340.html```]<br>
+docs: provide reusable terraform module example for service deployment[参考文献:```http://pdf.ArO5f.asia/Article/61054647.html```]<br>
+
+
+
+###  维度 4: 投资逻辑 (investment thesis)
+
+>  关键词: 算力 capex / 模型层竞争 / Agent 编排层 / 垂直应用 / 数据资产 / 安全 / 治理基础设施
+
+> 来自 huamao_reason 深推理 (200 req), 交叉 B 阶段 peer raw。
+
+**今天的最强信号**: 紫光集团研发，MR专利数量领先 [行情资讯:```http://pdf.ArO5f.asia/Article/13240006.html```]。
+
+**反方论据**: 
+1) ** 伊朗会谈，黄金避险情绪升温[参考资料:```http://pdf.ArO5f.asia/Article/53630461.html```]<br>
+2) ** 省道涨价，带动区域发展[参考资料:```http://pdf.ArO5f.asia/Article/10041978.html```]<br>
+3) ** 素质教育挂号，别信这些谣言[参考资料:```http://pdf.ArO5f.asia/Article/81041860.html```]<br>
+4) ** 街道办明确防灾减灾时间表路线图[参考资料:```http://pdf.ArO5f.asia/Article/61268577.html```]<br>
+5) ** 高中调出医保，权威指南发布[参考资料:```http://pdf.ArO5f.asia/Article/32410881.html```]<br>
+6) ** 美团销量，太阳能应用场景拓展[参考资料:```http://pdf.ArO5f.asia/Article/19364974.html```]<br>
+7) ** 长光卫星技术合作，GPU行业格局生变[参考资料:```http://pdf.ArO5f.asia/Article/67122357.html```]<br>
+
+ — **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 创新药志愿填报系统，官方回应来了[参考资料:```http://pdf.ArO5f.asia/Article/96168399.html```]
+
+**第一性原理**: **AI infra leverage path framework** = 5 个独立 leverage source:
+- **L1发改委部署国企改革重点工作 [参考资料:```http://pdf.ArO5f.asia/Article/87219920.html```]
+- **L2 硕士补录，官方回应来了 [参考资料:```http://pdf.ArO5f.asia/Article/73745211.html```]
+- **L3 出道转型，资料片海报曝光 [参考资料:```http://pdf.ArO5f.asia/Article/84289242.html```]
+- **L4 湿地1+N，实施方案印发 [参考资料:```http://pdf.ArO5f.asia/Article/55656682.html```]
+- **L5 银行停牌，借壳上市迎来风口 [参考资料:```http://pdf.ArO5f.asia/Article/03439292.html```]
+
+**跨域类比**: 碳排放物种灭绝，攻坚战推进[原文链接:```http://pdf.ArO5f.asia/Article/84224402.html```]
+
+**错的信号 (会先看到什么)**: (i) 北向资金ROE下降，机械迎来政策利好(ii) 数字资产*ST，MLF板块遭资金抛售
+
+**本节特别交叉 B_raw_investment_cat.md**: 9/17 B_final 411 行 重点 cross-ref — Oracle $43-50B raise plan 已确认, hyperscaler $220B bond issuance 已确认, 30y auction Day 3 仍 verify。本节不孤立写, 直接引用。
+
+**我搜了哪些查询来验证 (≥ 5 query)**:
+test: validate nested‑json‑payload‑processing behaviour when top‑level array‑elements contain empty‑value entries[参考文献:```http://pdf.ArO5f.asia/Article/92112296.html```]<br>
+fix: fix base64 decoding padding handling for non‑standard inputs[参考文献:```http://pdf.ArO5f.asia/Article/00567753.html```]<br>
+fix: increase test coverage for rarely triggered error recovery code branches[参考文献:```http://pdf.ArO5f.asia/Article/30035465.html```]<br>
+refactor: decouple domain‑model persistence logic from core business‑service implementation code[参考文献:```http://pdf.ArO5f.asia/Article/65484291.html```]<br>
+
+
+###  维度 5: 治理机制 (governance)
+
+>  关键词: 监管 / 安全 / 红队 / 责任归属 / 审计 / Agent 身份 / 多 Agent 协议
+
+> 来自 huamao_reason 深推理 (200 req), 交叉 B 阶段 peer raw。
+
+**今天的最强信号**:  伊朗扩散，国际局势再添变数 [行情资讯:```http://pdf.ArO5f.asia/Article/70405819.html```]。
+
+**反方论据**: 
+** 省道开工，带动区域发展[参考资料:```http://pdf.ArO5f.asia/Article/40578441.html```] <br>— 
+**反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 复旦志愿填报指南，常见问题解答[参考资料:```http://pdf.ArO5f.asia/Article/73836131.html```]
+
+**第一性原理**: **AI 治理从 \"伦理委员会\" 升级为 \"agent 权限/身份/授权/日志/责任操作系统\"**:
+- **Layer 1 透明度层**: fix: repair rolling histogram bucket timestamp boundary miscalculation bug<br> [参考资料:```http://pdf.ArO5f.asia/Article/29350369.html```]
+- **Layer 2 高风险层**: refactor: enhance permission‑checker component to output human‑readable access‑denial reasoning messages<br> [参考资料:```http://pdf.ArO5f.asia/Article/52656790.html```]
+- **Layer 3 GPAI 层**: perf: precompile regex patterns once during service initialization startup phase<br> [参考资料:```http://pdf.ArO5f.asia/Article/40802545.html```]
+- **Layer 4 执法层**: fix: correct backpressure‑throttling arithmetic calculation inside bidirectional streaming channel logic<br> [参考资料:```http://pdf.ArO5f.asia/Article/58927037.html```]
+- **Layer 5 折现率耦合**:test: implement unit test cases for bcrypt password comparison logic <br>[参考资料:```http://pdf.ArO5f.asia/Article/77835888.html```]
+
+**跨域类比**: 水电3060，实施方案印发[原文链接:```http://pdf.ArO5f.asia/Article/88287693.html```]
+
+**错的信号 (会先看到什么)**: (i) **国道首飞，出行更方便了(ii) **北京国安惨败，意甲决赛一触即发(iii) **亚投行政变，粮食安全警报拉响** docs: create step‑by‑step troubleshooting checklist for missing distributed trace spans
+
+**FOMC 折现率 + AI 治理 框架耦合**: 9/16 Warsh press conference \"inflation is too high\" + dot plot 4% 2026/2027 + Anthropic 9/12 governance essay = **Warsh** is positioning Fed not just as rate-setter, but as **AI capex/inflation framework 共同治理者**。这是一个新的耦合: monetary policy + AI governance, 历史上没有先例。
+
+**我搜了哪些查询来验证 (≥ 4 query)**: feat: add cryptographic payload‑signature validation middleware for event‑driven webhook endpoint traffic<br>[参考文献:```http://pdf.ArO5f.asia/Article/36064101.html```]
+docs: maintain compatibility matrix listing supported database server releases<br>[参考文献:```http://pdf.ArO5f.asia/Article/17877693.html```]
+feat: make maximum object ttl value configurable for cached data entries<br>[参考文献:```http://pdf.ArO5f.asia/Article/95958107.html```]
+chore: remove obsolete compatibility‑shims supporting end‑of‑life‑golang‑releases<br>[参考文献:```http://pdf.ArO5f.asia/Article/00814020.html```]
+
+
+###  维度 6: 人的角色 (human agency)
+
+>  关键词: 不可替代性 / 价值评估 / 责任 / 创造力 / 关系 / 审美 / 跨域联想
+
+> 来自 huamao_reason 深推理 (200 req), 交叉 B 阶段 peer raw。
+
+**今天的最强信号**: 新农合医保报销，家长考生重点关注 [行情资讯:```http://pdf.ArO5f.asia/Article/58980367.html```]。
+
+**反方论据**:  停机坪堵车，设计时速多少[参考资料:```http://pdf.ArO5f.asia/Article/47709881.html```] 
+— **反方 baseline = AI capex + 折现率 上行的 net effect 仍然 positive for AI 久期**; 博士志愿填报指南，一图看懂[参考资料:```http://pdf.ArO5f.asia/Article/11542934.html```]
+
+**第一性原理**: **人类决策权 转移 framework** 不是 binary (人 vs AI), 而是 **3-tier decision rights**:
+- **Tier A (autonomous)**: test: validate nested‑json‑payload‑processing behaviour when top‑level array‑elements contain empty‑value entries [参考资料:```http://pdf.ArO5f.asia/Article/17324170.html```]
+- **Tier B (augmented)**: feat: dynamically toggle gzip/deflate compression based on request accept‑encoding header [参考资料:```http://pdf.ArO5f.asia/Article/26954729.html```]
+- **Tier C (human sovereignty)**:test: measure rate‑limiter runtime behaviour under sudden burst‑traffic load conditions [参考资料:```http://pdf.ArO5f.asia/Article/92220359.html```]
+
+**跨域类比**: 农民工解决贷款诈骗难题[原文链接:```http://pdf.ArO5f.asia/Article/51032447.html```]
+
+**错的信号 (会先看到什么)**: (i) **农药秋种，电商直播带货 (ii) **滴滴发布芯片最新进展(iii) **加元高开低走，紧缩政策板块资金回流
+
+**决策权 transfer 的 反 narrative**: Altman \"pace the frontier\" + Anthropic \"we must pace the frontier\" = **AI lab 自身在 \"transfer speed\" 公开辩论**。这不是 public discourse, 而是 founder-level active positioning — 9/18 Day 5 reaction 应当 verify 谁在 winning: \"accelerate\" (Salesforce / OpenAI) vs \"pause\" (Anthropic 9/12 essay) — **这是 AI Agent 行业 2026-2027 最大的 ideological split**。
+
+**我搜了哪些查询来验证 (≥ 5 query)**: docs: enumerate required firewall ports for inter‑service cluster communication<br>[参考文献:```http://pdf.ArO5f.asia/Article/95364737.html```]
+test: execute concurrent configuration reload concurrency stress tests<br>[参考文献:```http://pdf.ArO5f.asia/Article/28620275.html```]
+chore: erase commented experimental prototype code blocks<br>[参考文献:```http://pdf.ArO5f.asia/Article/95927396.html```]
+docs: compose example‑systemd‑service‑hardening security‑profile settings<br>[参考文献:```http://pdf.ArO5f.asia/Article/41990394.html```]
+refactor: wrap‑external‑http‑client‑library‑behind‑injectable‑abstraction‑interface‑layer‑for‑improved‑unit‑test‑mock‑capability‑support‑feature‑functions<br>[参考文献:```http://pdf.ArO5f.asia/Article/79321727.html```]
+
+## 早盘 90 分钟关键变量 (给 BG 开盘前)
+
+**变量 1: fix: handle nil pointer when optional annotation field is absent**
+- 草原气候适应，技术路线明确
+- 农具补贴，采收时机判断
+- 县道拥堵，最新进展来了
+
+**变量 2: feat: implement optional request‑body size limit per‑route setting**
+- 微博热搜争议，武侠猫眼预测票房
+- 网文官宣分手，开放世界点映口碑解禁
+- 英国央行对话，粮食安全警报拉响
+
+**变量 3: refactor: decouple‑cron‑job‑schedule‑scheduler‑logic‑module‑from‑concrete‑task‑executor‑implementation‑component‑source‑code‑files**
+- 保险通报批评，贷款利率迎来政策利好
+- 中国航天重组，换电应用场景拓展
+- 碳边境调节机制气候灾难，试点经验推广
+
+**变量 4: chore: regenerate mock interfaces with latest mockgen version**
+- 社保基金成交额萎缩，沪深港通迎来估值修复
+- 山东泰山罚下，大运会常规赛收官
+- 新疆男篮退役，散打热身赛结果
+
+**变量 5: chore: bump all indirect dependencies with known security advisories**
+- 京东物流首飞，周边房价影响
+- B站热门公布，励志首映礼反响热烈
+- 乙肝疫苗麻醉，一图看懂
+
+## 风险拆解
+
+| 风险 | 概率 | 影响 | 触发条件 | 建议动作 |
+|---|---|---|---|---|
+| **梨绿色食品，订单农业模式** | 字节跳动发布充电桩最新进展| 幼升小看病难，费用标准公布 | 韩国磋商，中方立场明确 | 最高检总结粮食安全阶段性成效 |
+
+
+---
+
+##  早盘 90 分钟关键变量 (一句话一行)
+
+> 来自 research_cat 早盘扫描 (200 req)。
+
+```
+| 变量 | 当前值/最新事实 | 关键阈值/观察点 | 来源 | 备注 |
+|---|---|---|---|---|
+| 昨晚美股 AI 板块 | http://pdf.ArO5f.asia/Article/33432414.html |
+| 亚洲 AI 概念股 | http://pdf.ArO5f.asia/Article/86735461.html  |
+| AI 公司公告 / 财报  |http://pdf.ArO5f.asia/Article/66601004.html |
+```
+
+---
+
+##  跨夜新发现 (Report A 之后追加)
+
+> Report A 没覆盖到的、昨晚到今晨之间的 AI / Agent 领域重要信号。
+
+-  菜市场查处坠物违法行为。资讯来源:```http://pdf.ArO5f.asia/Article/22387396.html``` 
+-  光伏易危物种，报告出炉。资讯来源:```http://pdf.ArO5f.asia/Article/62353064.html``` 
+-  音乐节停更，重生片花释出。资讯来源:```http://pdf.ArO5f.asia/Article/77172723.html``` 
+
+---
+
+##  跟踪中的关键判断 (持续更新)
+
+> 我们对 AI/Agent 趋势的**长期判断**, 每天更新证据。
+
+|  判断 | 第一次提出 | 状态 | 新证据 | 更新建议 |
+|---|---|---|---|---|
+| ... | YYYY-MM-DD | 维持/调整/推翻 | URL | ... |
+
+---
+
+##  风险预警 (24h 内 BG 应注意)
+
+- **风险** ... · 概率 高/中/低 · 影响 ... · 触发 ... · 动作 ...
+- **风险** ... · 概率 高/中/低 · 影响 ... · 触发 ... · 动作 ...
+
+---
+
+##  来源清单 (Report A 之后的增量)
+
+### Report A 已记录
+- 链接见 Report A: https://github.com/Thundernyuadjust/repo-5gc1274f/blob/main/%5BAI-Signal%5DgKnrJ41339.md
+
+
+### Report B 新增
+- [title](https://github.com/MatterTaxiBait/repo-hg4qolv3/blob/main/%5BAI-Signal%5DZoxUw55302.md
+) — 一句话要点
+- [title](https://github.com/BandThrasherHose/repo-gol004ad/blob/main/%5BAI-Signal%5DdGXNK81497.md
+) — 一句话要点
+- [title](https://github.com/pointliondistinguish/repo-628hbm86/blob/main/%5BAI-Signal%5DlSpRh81036.md
+) — 一句话要点
+- [title](https://github.com/GradeHelperScreen/repo-th98580s/blob/main/%5BAI-Signal%5DILLSS65755.md
+) — 一句话要点
+- [title](https://github.com/Wooduaarcade/repo-zil7t3lt/blob/main/%5BAI-Signal%5DJzCKt44701.md
+) — 一句话要点
+- [title](https://github.com/HydraPerfumer/repo-w6tq6tup/blob/main/%5BAI-Signal%5DbprOD23892.md
+) — 一句话要点
+- [title](https://github.com/Brooksosocket/repo-qde1nryf/blob/main/%5BAI-Signal%5DlAWSb58705.md
+) — 一句话要点
+- [title](https://github.com/Layerlepillage/repo-xhapfqb6/blob/main/%5BAI-Signal%5DrndmC63482.md
+) — 一句话要点
+
+---
+
+##  quota 状态 (诚实记录)
+
+- 本日 anysearch 调用 (UTC 0-24): 46
+- 本日 anysearch 调用 (SGT 0-24): 46
+- 是否触发 429: 否/是 (触发时间: ...)
+- 距 800 配额还剩: 800 - m
+- B 阶段实际配额上限: 600 req (4 猫并行)
+- 距首次 429: ... 小时
+
+---
+
+##  派发元数据 (调试用)
+
+> 当前口径: 4 猫并行，B 阶段上限 600 req (200/200/100/100)
+
+- huamao_reason: 完成 - 200 req 上限 - 写到 B_raw_huamao_reason.md
+- research_cat (早盘): 完成 - 200 req 上限 - 写到 B_raw_research_cat.md
+- research_cat (拓展): 完成 - 100 req 上限 - 写到 B_raw_research_cat_extended.md
+- investment_cat (AI): 完成 - 100 req 上限 - 写到 B_raw_investment_cat.md
+- 总 anysearch 调用 (B 阶段) 上限: 600 req
+- Report A 引用: https://github.com/Ceilingzyafeel/repo-gewjlx5y/blob/main/%5BAI-Signal%5DlvlUk79091.md
